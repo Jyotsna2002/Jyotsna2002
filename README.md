@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jyotsna2002
-- 👀 I’m interested in coding , Working on new projects and web developement
-- 🌱 I’m currently learning Front end in Web development
+- 👀 I’m interested in coding , Working on new projects and app development
+- 🌱 I’m currently learning app development through kotlin
 - 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me Email- guptajyotsna2002@gmail.com
 
